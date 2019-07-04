@@ -17,6 +17,7 @@ namespace TransactionService
     /// <summary>
     /// The FabricRuntime creates an instance of this class for each service type instance. 
     /// </summary>
+    /// hai
     internal sealed class TransactionService : StatelessService
     {
         public TransactionService(StatelessServiceContext context)
